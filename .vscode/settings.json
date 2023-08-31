@@ -1,0 +1,28 @@
+{
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#78d850",
+    "activityBar.background": "#78d850",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#4972d6",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#78d850",
+    "statusBar.background": "#5ac82d",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#479e24",
+    "statusBarItem.remoteBackground": "#5ac82d",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#5ac82d",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#5ac82d99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#5ac82d",
+  "cSpell.words": [
+    "Giftapi",
+    "GIFTWRAP"
+  ],
+}
